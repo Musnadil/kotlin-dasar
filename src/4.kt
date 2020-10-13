@@ -10,6 +10,7 @@ fun main(){
     }
 
 
+
     println(range.count())
     println(range.contains(9))
     println(range.contains(12))
@@ -19,5 +20,6 @@ fun main(){
     println(range.step)
     println(range.contains(45))
     println(range2)
+
 
 }
