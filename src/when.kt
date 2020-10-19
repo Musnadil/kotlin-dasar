@@ -6,4 +6,4 @@ fun main(){
         'C' -> println("belajar lagi ")
         else -> println("remidi")
     }
-}r
+}

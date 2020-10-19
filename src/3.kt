@@ -7,9 +7,12 @@ fun main (){
     //implisit
     val array1 = arrayOf("1", 2, 3 )
 
+    //size = panjang array
+    println(members.size)
+
     //mendapat data di posisi index
         // 1. use get(index)
-    println(array1.get(1))
+    println(array1.get(0))
 
         // 2. use[index]
     println (members[1])
